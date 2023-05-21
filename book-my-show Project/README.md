@@ -1,4 +1,4 @@
-# A prototype of application Book-My-Show using Create React App
+# A prototype of Book-My-Show using Create React App
 
 This project was bootstrapped with [Create React App]
 
